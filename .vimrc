@@ -5,4 +5,3 @@ set autoindent
 filetype plugin indent on
 set t_Co=256
 syntax on
-#test
